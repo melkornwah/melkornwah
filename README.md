@@ -26,4 +26,4 @@
 ## Контакты:
 - Телефон: +79210999532
 - Почта: v.chistyi@gmail.com
-- Vk.com: https://vk.com/melkornwah
+- Вконтакте: https://vk.com/melkornwah
