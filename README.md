@@ -23,6 +23,10 @@
 ![image](https://user-images.githubusercontent.com/44168663/113405554-b2e8e000-93b2-11eb-9692-cdee92a95c18.png)
 
 
+## Статистика GitHub:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melkornwah)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Контакты:
 - Телефон: +79210999532
 - Почта: v.chistyi@gmail.com
