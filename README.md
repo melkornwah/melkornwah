@@ -16,13 +16,13 @@
 
 ## Стек:
 
-!Git
-!HTML5
-!CSS3
-!JavaScript ES6
-!React+Redux
-!Node.js
-!Sass
+*Git
+*HTML5
+*CSS3
+*JavaScript ES6
+*React+Redux
+*Node.js
+*Sass
 
 
 ## Статистика GitHub:
